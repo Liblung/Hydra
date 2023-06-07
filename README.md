@@ -16,14 +16,14 @@
 ## Preview
 
 <div align="center">
-    <a href="https://michaelcurrin.github.io/jekyll-blog-demo/">
+    <a href="https://liblung.github.io/hydra3/">
         <img src="/sample.png" alt="Sample screenshot" title="Go to demo site" width="400">
     </a>
 </div>
 
 <br>
 
-[![Site link](https://img.shields.io/badge/View_site-Jekyll_Blog_Demo-blue?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-blog-demo/ "Go to demo site")
+[![Site link](https://img.shields.io/badge/View_site-Jekyll_Blog_Demo-blue?style=for-the-badge)](https://liblung.github.io/hydra3/ "Go to demo site")
 
 Complete with machine-readable pages:
 
