@@ -6,7 +6,7 @@ description: Starter for a static website or blog - built with Jekyll, a minimal
 
 email:
 twitter_username:
-github_username: MichaelCurrin
+github_username: liblung
 rss: RSS
 
 ### Build settings
@@ -40,7 +40,6 @@ exclude:
   - Gemfile # Gemfile.lock is implied because of how matching works.
   - LICENSE
   - Makefile
-  - README.md
   - sample*.png
 
 liquid:
