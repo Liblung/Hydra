@@ -129,15 +129,15 @@ Timestamps are inconsistent.
 
 /materials/
 
-![](Assets/Pasted%20image%2020221025185503.png)
+![](assets/Pasted%20image%2020221025185503.png)
 
 /models/
 
-![](Assets/Pasted%20image%2020221025184904.png)
+![](assets/Pasted%20image%2020221025184904.png)
 
 ### Facemap Sources
 
-![](Assets/Pasted%20image%2020221025184348.png)
+![](assets/Pasted%20image%2020221025184348.png)
 
 The files released are split by gender. This is congruous with the newly released /Humans/ source files, which duplicate them.
 
@@ -183,10 +183,10 @@ Time (MM:SS) | Used by
 
 The textures in Source Art are in two separate chunks with a gap of a minute. The selection indicates the separation.
 
-![](Assets/Pasted%20image%2020221025185722.png)
+![](assets/Pasted%20image%2020221025185722.png)
 
 In the base directory, the timestamps' order doesn't fully correspond alphabetically. Exceptions to it are pictured:
 
-![](Assets/Pasted%20image%2020221025185503.png)
+![](assets/Pasted%20image%2020221025185503.png)
 
 
