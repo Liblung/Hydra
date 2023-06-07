@@ -1,0 +1,12 @@
+<ul>
+    {% for collection in site.collections %}
+
+                    {%- for c in collection.docs %}
+                        <li>
+                            <a href="{{ c.url | relative_url }}">
+                                {{ c.title }}
+                            </a>
+                        </li>
+                    {% endfor -%}
+    {% endfor %}
+</ul>
