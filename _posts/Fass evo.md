@@ -1,0 +1,100 @@
+Although most characters documented survive in the final release, they aren't necessarily the only ones to undergo a great deal of evolution. Thanks to 2 new releases, there is a great deal more known about the female assassin's development, from the roughest to the final state before being cut (and later reused). 
+
+- [[#Version 1: Repo Leak work folder|Version 1: Repo Leak work folder]]
+- [[#Version 2: Pel Shot|Version 2: Pel Shot]]
+- [[#Version 3: Leak|Version 3: Leak]]
+- [[#Version 4: 'Final'|Version 4: 'Final']]
+- [[#Version A: HL2: Survivor|Version A: HL2: Survivor]]
+- [[#Version B: Combine Elite|Version B: Combine Elite]]
+
+## Version 1: Repo Leak work folder
+<table>  
+  <tr>  
+    <th>
+<img alt="fass3_v1_anim 1.png" width="300" src="assets/fass3_v1_anim%201.png"><br>Eye is using blah.tga.
+</th>
+<th style="vertical-align:top;">
+The earliest set of textures shows a unique style not seen in the other earliest texture sets. It's a strange combination of a UV grid and direct vertex-lit lighting. Every one of the textures ends in "mesh", with a couple of newer ones included without this convention. What, if anything, was used for the eye is ambiguous. There are 2 miscellaneous textures - blah.tga and specmask.tga. 
+</th>
+</tr></table>
+
+## Version 2: Pel Shot
+<table>  
+  <tr>  
+    <th>
+    <img width="300" src="assets/pel_assassin.png">
+</th>
+<th> 
+The Fassassin has a tendency to incompletely change. For example, this reuses "footmesh" from the prior version - it has the same UV grid the prior one uses. While the textures for this are 'unreleased', it can be recreated with little compromise.<br><br>
+<ul>  
+  <li>As aforementioned, foot.tga from v1 is reused.</li>
+  <li>v1's newer Chest2.tga and belt.tga match.</li>
+  <li>The Leak's unused legdiffuse.vtf serves perfectly as both a leg and arm texture.</li>
+  <li>This version's hand.vtf, pouch.vtf and neck.vtf are still used in the Leak.</li>  
+  <li>The head can be recreated, at the top, from the alpha channel of the normal map, and the bottom from the Leak head with no modification.
+</ul>
+Oddly, the belt texture here is heavily vertical (as is the normal map for v3), but the UVs between version 1 and 3 are identical.
+<h3>Gallery</h3>
+<img width="300" src="assets/fass3_v3.png"><br>Recreation
+
+## Version 3: Leak
+<table>  
+  <tr>  
+    <th>
+<img alt="fass3_v4.png" width="300" src="assets/fass3_v4.png">
+</th>
+<th style="vertical-align:top;">
+The leak contains a version which appears to be an attempt to make v4 before a reUVing was performed. This is more incomplete than the prior version, with 3 of v2's textures still used, and plenty left over. 
+</th>
+</tr></table>
+
+## Version 4: 'Final'
+<table>  
+  <tr>  
+    <th>
+<img alt="fass3_v5_2.png" width="300" src="assets/fass3_v5_2.png">
+</th>
+<th style="vertical-align:top;">
+The final version. It is available in the repo, but the sheet was also available in the Leak - just not the model with the new UVs for it. Despite the radical changes to the textures prior, this is the only one to make model changes; the head is slightly larger.
+</th>
+</tr></table>
+
+## Version A: HL2: Survivor
+<table>  
+  <tr>  
+    <th>
+<img alt="fass3_v5_2.png" width="300" src="assets/fass3_v6_1.png">
+</th>
+<th style="vertical-align:top;">
+The final version. It is available in the repo, but the sheet was also available in the Leak - just not the model with the new UVs for it. Despite the radical changes to the textures prior, this is the only one to make model changes; the head is slightly larger.
+</th>
+</tr></table>
+
+## Version B: Combine Elite
+<table>  
+  <tr>  
+    <th>
+<img alt="fass3_v5_2.png" width="300" src="assets/fass3_vb.png">
+</th>
+<th style="vertical-align:top;">
+In creating the final Combine Elite, a quick modification to the Combine Soldier was made by adding the head to it, and the head texture over the normal one. This one possesses a uniformly red eye.
+</th>
+</tr></table>
+
+## Bonus
+
+### Texture Table
+
+_ | Arm | Belt | Chest | Eye | Foot | Hand | Head | Leg | Neck | Pouch
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+v1 | ![[1_armmesh.png]] | ![[1_beltmesh.png]] | ![[1_chestmesh.png]] | | ![[1_footmesh.png]] | ![[1_handmesh.png]] | ![[1_headmesh.png]] | ![[1_legmesh.png]] | ![[1_neckmesh.png]] | ![[1_pouchmesh.png]]
+v2 | ![[3_legdiffuse.png]] |  ![[1_belt.png]] | ![[1_chest2.png]] | ![[2_eye.png]]<br> Recr. | ![[1_footmesh.png]] | ![[3_hand.png]] | ![[2_head.png]]<br>Recr. | ![[3_legdiffuse.png]] | ![[3_neck.png]] | ![[3_pouch.png]]
+v3 | ![[3_arm.png]] | ![[3_belt.png]] | ![[3_chest2.png]] | ![[3_eye.png]] | ![[3_foot.png]] | ![[3_hand.png]] | ![[3_head.png]] | ![[3_leg.png]] | ![[3_neck.png]] | ![[3_pouch.png]]
+
+### Model Comparison
+
+![[fass_full_anim.png]]
+
+### Sheet Comparison
+
+![[sheet_anim.png]]
