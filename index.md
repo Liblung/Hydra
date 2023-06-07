@@ -4,7 +4,7 @@ layout: home
 ---
 
 <style>
-ul
+ul:first-of-type
 {
     display:none;
 }
