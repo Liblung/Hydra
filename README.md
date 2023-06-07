@@ -3,7 +3,7 @@
 ## Preview
 
 <div align="center">
-    <a href="https://liblung.github.io/hydra/">
+    <a href="https://liblung.github.io/Hydra/">
         <img src="/sample.png" alt="Sample screenshot" title="Go to demo site" width="400">
     </a>
 </div>

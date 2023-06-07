@@ -12,7 +12,7 @@ rss: RSS
 ### Build settings
 
 url: https://liblung.github.io
-baseurl: /hydra
+baseurl: /Hydra
 
 permalink: pretty
 
