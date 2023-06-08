@@ -13,7 +13,7 @@ ul:first-of-type
     margin-top:0px;
 
     margin-bottom:15px;
-    border-top:1px solid rgba(0,0,0,0.3);
+    border-bottom:1px solid rgba(0,0,0,0.3);
 }
 .post-list h3
 {
