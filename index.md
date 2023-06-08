@@ -10,9 +10,9 @@ ul:first-of-type
 }
 .post-list>li
 {
-    margin-top:15px;
+    margin-top:0px;
 
-    margin-bottom:0px;
+    margin-bottom:15px;
     border-top:1px solid rgba(0,0,0,0.3);
 }
 .post-list h3
