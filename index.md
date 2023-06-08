@@ -8,10 +8,10 @@ ul:first-of-type
 {
     display:none;
 }
-ul li
+.post-list>li
 {
-    margin-bottom:10px;
-    border-bottom:1px solid rgba(0,0,0,50);
+    margin-bottom:0px;
+    border-bottom:1px solid rgba(0,0,0,0.3);
 }
 </style>
 
