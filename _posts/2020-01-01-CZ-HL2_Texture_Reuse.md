@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Models Do We Have?"
+title: "CZ HL2 Texture Reuse"
 date: 2022-10-25
 permalink: /CZ-HL2_Texture_Reuse
 ---
