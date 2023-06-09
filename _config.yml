@@ -16,7 +16,7 @@ baseurl: /Hydra
 
 permalink: pretty
 
-theme: hacker
+theme: Hacker
 
 plugins:
   - jekyll-feed
