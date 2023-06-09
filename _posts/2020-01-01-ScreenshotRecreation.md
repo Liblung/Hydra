@@ -2,6 +2,7 @@
 layout: page
 title: "Screenshot Recreation"
 permalink: /screens
+date: 2022-11-04
 ---
 
 ## Examples
